@@ -6,3 +6,4 @@ Creating a new branch is quick.(by Mac)
 Test branch managing.
 Add line at dev_windows.
 Add line for testing rebase.
+Add line for testing rebase at dev_rebase_windows.
